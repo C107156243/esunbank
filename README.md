@@ -1,3 +1,4 @@
+自學 自我練習 持續作業中
 ![image](https://github.com/C107156243/online-mall/assets/80866909/7e58198e-7085-4038-aa1e-6da975180894)
 ![image](https://github.com/C107156243/online-mall/assets/80866909/aa7e740a-f135-4e26-a9dd-233de9388ba8)
 ![image](https://github.com/C107156243/online-mall/assets/80866909/dd814b7d-0e05-4191-9ca7-4054429dc31d)
