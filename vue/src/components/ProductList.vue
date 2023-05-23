@@ -22,6 +22,7 @@
         </tbody>
     </table>
     <v-btn @click="toAdd()">新增商品</v-btn>
+    <v-btn @click="logout()">登出</v-btn>
     </div>
     
 
@@ -65,6 +66,10 @@ import ProductService from "../services/ProductService"
                         quantity: product.quantity
                     }
                 })
+            },
+            logout(){
+                sessionStorage.clear()
+                this.$router.push('/LoginPage')  
             }
         },
         created() {
